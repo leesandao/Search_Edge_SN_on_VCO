@@ -1,6 +1,9 @@
 # Search_Edge_SN_on_VCO
 If you want to verify Edge existed on VCO or not, you may use this script
 
+# Script Logic
+![Alt text](https://github.com/leesandao/all_pics/blob/master/search_edge_sn_logical.png)
+
 # Use Guide
 ***For Windows Environment***, you can use directly with necessary import modules
 
